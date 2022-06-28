@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/01/07 13:11:14.000.883,=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/10 11:12:52.000.082,=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/10 11:22:24.000.028,C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Aula_09.pas</Transaction>
+    <Transaction>2022/02/10 11:22:24.000.028,C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Aula_09.dfm</Transaction>
+    <Transaction>2022/02/10 11:22:26.000.640,C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/06/06 20:46:12.000.163,=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/06/06 20:52:33.000.209,C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Vendas\View\Produtos\Produtos.dfm=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2022/06/06 20:52:33.000.209,C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Vendas\View\Produtos\Produtos.pas=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/06/06 20:52:53.000.183,C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Vendas\Vendas.dproj=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/06/20 21:14:12.000.872,=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas</Transaction>
+    <Transaction>2022/06/20 21:14:31.000.380,=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas</Transaction>
+    <Transaction>2022/06/20 21:23:18.000.411,C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.dfm=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Vendas\View\uPrincipal.dfm</Transaction>
+    <Transaction>2022/06/20 21:23:18.000.411,C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Vendas\View\uPrincipal.pas</Transaction>
+    <Transaction>2022/06/20 21:46:35.000.572,=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
