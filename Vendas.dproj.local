@@ -12,8 +12,14 @@
     <Transaction>2022/06/06 20:52:53.000.183,C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Vendas\Vendas.dproj=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
     <Transaction>2022/06/20 21:14:12.000.872,=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas</Transaction>
     <Transaction>2022/06/20 21:14:31.000.380,=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas</Transaction>
-    <Transaction>2022/06/20 21:23:18.000.411,C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.dfm=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Vendas\View\uPrincipal.dfm</Transaction>
     <Transaction>2022/06/20 21:23:18.000.411,C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Vendas\View\uPrincipal.pas</Transaction>
+    <Transaction>2022/06/20 21:23:18.000.411,C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.dfm=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Vendas\View\uPrincipal.dfm</Transaction>
     <Transaction>2022/06/20 21:46:35.000.572,=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas</Transaction>
+    <Transaction>2022/07/04 20:41:44.000.116,=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Git\Vendas\Unit1.pas</Transaction>
+    <Transaction>2022/07/04 21:15:54.000.332,C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Git\Vendas\Unit1.dfm=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Git\Vendas\View\Clientes\frmCliente.dfm</Transaction>
+    <Transaction>2022/07/04 21:15:54.000.332,C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Git\Vendas\Unit1.pas=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Git\Vendas\View\Clientes\frmCliente.pas</Transaction>
+    <Transaction>2022/07/04 21:41:19.000.693,=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Git\Vendas\Unit1.pas</Transaction>
+    <Transaction>2022/07/04 21:54:49.000.220,C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Git\Vendas\Unit1.dfm=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Git\Vendas\View\Produtos\ProdutosEdcao.dfm</Transaction>
+    <Transaction>2022/07/04 21:54:49.000.220,C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Git\Vendas\Unit1.pas=C:\Users\impressao2\Documents\Embarcadero\Studio\Projects\Git\Vendas\View\Produtos\ProdutosEdcao.pas</Transaction>
   </Transactions>
 </BorlandProject>

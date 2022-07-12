@@ -10,7 +10,7 @@ uses
   FireDAC.Phys.PGDef, FireDAC.Stan.Intf, FireDAC.Phys, FireDAC.Phys.PG,
   FireDAC.Stan.Option, FireDAC.Stan.Param,
   FireDAC.Stan.Error, FireDAC.DatS, FireDAC.Phys.Intf, FireDAC.DApt.Intf,
-  FireDAC.Stan.Async, FireDAC.DApt, FireDAC.Comp.DataSet;
+  FireDAC.Stan.Async, FireDAC.DApt, FireDAC.Comp.DataSet, ProdutosEdcao;
 
 type
   TfrmCadProdutos = class(TForm)
@@ -22,11 +22,13 @@ type
     cdsProdutosid: TIntegerField;
     cdsProdutosnome: TStringField;
     cdsProdutosdescricao: TStringField;
-    cdsProdutosprecocusto: TStringField;
-    cdsProdutosprecovenda: TStringField;
+    btnIncluir: TButton;
+    cdsProdutosprecocusto: TFloatField;
+    cdsProdutosprecovenda: TFloatField;
     procedure FormCreate(Sender: TObject);
     procedure FormDestroy(Sender: TObject);
     procedure btnSairClick(Sender: TObject);
+    procedure btnIncluirClick(Sender: TObject);
 
 
   private
@@ -42,8 +44,15 @@ implementation
 
 {$R *.dfm}
 
-procedure TfrmCadProdutos.btnSairClick(Sender: TObject);
+procedure TfrmCadProdutos.btnIncluirClick(Sender: TObject);
+begin
+  TfrmProdutosEdicao.Novo();
+  {
+    gravar no banco de dados
+  }
+end;
 
+procedure TfrmCadProdutos.btnSairClick(Sender: TObject);
 begin
 {if Application.MessageBox('Deseja fechar aplicação?','Aviso',MB_YESNO+MB_ICONQUESTION) = mrYes then
  } begin

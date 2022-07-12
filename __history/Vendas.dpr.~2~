@@ -1,0 +1,17 @@
+program Vendas;
+
+uses
+  Vcl.Forms,
+  Produtos in 'View\Produtos\Produtos.pas' {frmCadProdutos},
+  uPrincipal in 'View\uPrincipal.pas' {frmPrincipal},
+  frmCliente in 'View\Clientes\frmCliente.pas' {frmCadClientes};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfrmPrincipal, frmPrincipal);
+  Application.CreateForm(TfrmCadClientes, frmCadClientes);
+  Application.Run;
+end.

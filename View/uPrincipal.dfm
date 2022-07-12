@@ -24,11 +24,13 @@ object frmPrincipal: TfrmPrincipal
     Cursor = crHandPoint
     Align = alClient
     TabOrder = 0
+    ExplicitLeft = -8
+    ExplicitTop = -24
     object pnlMenu: TPanel
       Left = 1
       Top = 1
       Width = 59
-      Height = 48
+      Height = 51
       Align = alCustom
       Color = clSilver
       ParentBackground = False
@@ -154,7 +156,7 @@ object frmPrincipal: TfrmPrincipal
       object btnSair: TSpeedButton
         AlignWithMargins = True
         Left = 1
-        Top = -17
+        Top = -14
         Width = 57
         Height = 64
         Margins.Left = 0

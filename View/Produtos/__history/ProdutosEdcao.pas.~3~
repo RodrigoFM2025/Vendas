@@ -1,0 +1,44 @@
+unit ProdutosEdcao;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls;
+
+type
+  TfrmProdutosEdicao = class(TForm)
+    edtCodigo: TEdit;
+    lblCodigo: TLabel;
+    edtNome: TEdit;
+    lblNome: TLabel;
+    edtDescricao: TEdit;
+    lblDescricao: TLabel;
+    edtPrecoCusto: TEdit;
+    Label2: TLabel;
+    edtPrecoVenda: TEdit;
+    Label3: TLabel;
+    btnGravar: TButton;
+    btnCancelar: TButton;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+    class function Novo: TClientDataset;
+  end;
+
+var
+  frmProdutosEdicao: TfrmProdutosEdicao;
+
+implementation
+
+{$R *.dfm}
+
+{ TfrmProdutosEdicao }
+
+class function TfrmProdutosEdicao.Novo: TClientDataset;
+begin
+
+end;
+
+end.

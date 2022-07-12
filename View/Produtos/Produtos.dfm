@@ -33,9 +33,18 @@ object frmCadProdutos: TfrmCadProdutos
     Top = 463
     Width = 97
     Height = 37
-    Caption = 'Sair'
+    Caption = '&Sair'
     TabOrder = 1
     OnClick = btnSairClick
+  end
+  object btnIncluir: TButton
+    Left = 712
+    Top = 463
+    Width = 99
+    Height = 37
+    Caption = '&Incluir'
+    TabOrder = 2
+    OnClick = btnIncluirClick
   end
   object dtsProdutos: TDataSource
     DataSet = cdsProdutos
@@ -57,10 +66,10 @@ object frmCadProdutos: TfrmCadProdutos
     object cdsProdutosdescricao: TStringField
       FieldName = 'descricao'
     end
-    object cdsProdutosprecocusto: TStringField
+    object cdsProdutosprecocusto: TFloatField
       FieldName = 'precocusto'
     end
-    object cdsProdutosprecovenda: TStringField
+    object cdsProdutosprecovenda: TFloatField
       FieldName = 'precovenda'
     end
   end
